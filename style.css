@@ -1,0 +1,64 @@
+body {
+    background: rgb(52, 60, 86);
+}
+
+.mainbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     
+    
+    
+    
+}
+
+
+.Display {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 46px;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background: rgb(255, 1, 1);
+    color: white;
+}
+
+.FlexBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    margin-top: 41px;
+    margin-left: 625px;
+    font-size: 24px;
+    width: 264px;
+    height: 118px;
+    background-color: black;
+    color: white;
+}
+
+
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    background-color: greenyellow;
+    border-radius: 50px;
+    border: 50px solid red;
+}
+
+
+.Main {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
